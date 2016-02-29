@@ -1,0 +1,65 @@
+﻿2014/09/25 13:22:55 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\GameProject01\GameProject01.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\gslib_2010\inc /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameApplication.cpp
+         GameApplication.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\GameProject01.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\gslib_2010\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\GameProject01.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\GameProject01.lib" /MACHINE:X86 /SAFESEH Release\Bomb.obj
+         Release\Boss.obj
+         Release\Bullet.obj
+         Release\Character.obj
+         Release\CharacterManager.obj
+         Release\Credit.obj
+         Release\CsvReader.obj
+         Release\DrawSprite2D.obj
+         Release\Effect.obj
+         Release\Enemy.obj
+         Release\EnemyBullet.obj
+         Release\EnemyBulletGenerator.obj
+         Release\EnemyMove.obj
+         Release\GameApplication.obj
+         Release\GamePlay.obj
+         Release\Item.obj
+         Release\main.obj
+         Release\MathUtility.obj
+         Release\NullScene.obj
+         Release\Player.obj
+         Release\SceneManager.obj
+         Release\ShootingApplication.obj
+         Release\Title.obj
+         Release\WaveSound.obj
+         Release\World.obj
+         Release\WorldCharacter.obj
+         コード生成しています。
+         コード生成が終了しました。
+     1>glut_md.lib(_glut_gethwnd.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(_glut_gethwnd.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_8x13.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_8x13.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_9x15.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_9x15.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_cmap.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_cmap.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_cursor.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_cursor.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_event.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_event.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_fullscrn.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_fullscrn.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_gamemode.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_gamemode.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_hel10.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_hel10.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_hel12.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_hel12.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_hel18.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_hel18.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_init.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_init.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_mesa.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_mesa.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_mroman.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_mroman.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_roman.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_roman.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_swap.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_swap.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_tr10.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_tr10.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_tr24.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_tr24.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_util.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_util.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(glut_win.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(glut_win.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(win32_glx.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(win32_glx.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(win32_menu.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(win32_menu.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(win32_util.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(win32_util.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(win32_winproc.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(win32_winproc.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+     1>glut_md.lib(win32_x11.obj) : warning LNK4099: PDB 'vc100.pdb' が 'glut_md.lib(win32_x11.obj)' で、または 'C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\vc100.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+         GameProject01.vcxproj -> C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\Release\GameProject01.exe
+     1>プロジェクト "C:\Users\むらそう\Desktop\作業用フォルダ\G013A1301\個人製作\GameProject01\GameProject01\GameProject01.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:04.48
