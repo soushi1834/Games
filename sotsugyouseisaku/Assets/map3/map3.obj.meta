@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 3b45bddc1eaf31f47a58c71029f2205d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: college_3
+    100002: course_3
+    100004: goalkanban1
+    100006: goalkanban2
+    100008: goalline_3
+    100010: goalpost_3
+    100012: laboratory_yane_3
+    100014: leaf_3
+    100016: //RootNode
+    100018: mat_00
+    100020: shiba_3
+    100022: soto_3
+    100024: wall_3
+    100026: water_3
+    100028: wood_3
+    400000: college_3
+    400002: course_3
+    400004: goalkanban1
+    400006: goalkanban2
+    400008: goalline_3
+    400010: goalpost_3
+    400012: laboratory_yane_3
+    400014: leaf_3
+    400016: //RootNode
+    400018: mat_00
+    400020: shiba_3
+    400022: soto_3
+    400024: wall_3
+    400026: water_3
+    400028: wood_3
+    2300000: college_3
+    2300002: course_3
+    2300004: goalkanban1
+    2300006: goalkanban2
+    2300008: goalline_3
+    2300010: goalpost_3
+    2300012: laboratory_yane_3
+    2300014: leaf_3
+    2300016: mat_00
+    2300018: shiba_3
+    2300020: soto_3
+    2300022: wall_3
+    2300024: water_3
+    2300026: wood_3
+    3300000: college_3
+    3300002: course_3
+    3300004: goalkanban1
+    3300006: goalkanban2
+    3300008: goalline_3
+    3300010: goalpost_3
+    3300012: laboratory_yane_3
+    3300014: leaf_3
+    3300016: mat_00
+    3300018: shiba_3
+    3300020: soto_3
+    3300022: wall_3
+    3300024: water_3
+    3300026: wood_3
+    4300000: college_3
+    4300002: course_3
+    4300004: goalkanban1
+    4300006: goalkanban2
+    4300008: goalline_3
+    4300010: goalpost_3
+    4300012: laboratory_yane_3
+    4300014: leaf_3
+    4300016: mat_00
+    4300018: shiba_3
+    4300020: soto_3
+    4300022: wall_3
+    4300024: water_3
+    4300026: wood_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
